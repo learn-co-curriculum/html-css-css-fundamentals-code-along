@@ -206,7 +206,7 @@ Let's repeat those same steps we did to get the Elsie Swash Caps font, but we'll
 
 Now at the top of our style.css document we are linking to two different Google web fonts.
 
-Back on the Google font page you'll see how to apply the font to an element by setting it as a font on the `font-family` property. In the case of Elsie Swash Caps we would need to include `font-family: 'Elsie Swash Caps', cursive;` on any element we want to style with this font and `font-family: 'Clicker Script', cursive;` for any elements we wish to apply Clicker Script to. To demonstrate, let's add Elsie to our `figcaption` replacng the previous font of Georgia, serif.
+Back on the Google font page you'll see how to apply the font to an element by setting it as a font on the `font-family` property. In the case of Elsie Swash Caps we would need to include `font-family: 'Elsie Swash Caps', cursive;` on any element we want to style with this font and `font-family: 'Clicker Script', cursive;` for any elements we wish to apply Clicker Script to. To demonstrate, let's add Elsie to our `figcaption` replacing the previous font of Georgia, serif.
 
 ```css
 figcaption {
